@@ -1,5 +1,5 @@
 /*
-    Program to accept a matrix from user and display the contents of consecutive rows
+    Program to accept a matrix from user and swap the contents of consecutive rows
 
     Input :
     3   2   9   7
