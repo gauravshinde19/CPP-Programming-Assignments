@@ -1,4 +1,4 @@
-// Program to accept number from user snd count the number of ON bits
+// Program to accept number from user and count the number of ON bits
 
 #include <iostream>
 using namespace std;
